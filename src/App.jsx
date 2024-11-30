@@ -1,7 +1,7 @@
 
 import './App.css'
 import SimpleForm from './components/simpleForm/simpleForm'
-import StatefulForm from './components/SimpleForm/StatefulForm/StatefulForm'
+import StatefulForm from './components/StatefulForm/StatefulForm'
 
 
 function App() {
