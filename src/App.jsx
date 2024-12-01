@@ -1,6 +1,6 @@
 
 import './App.css'
-import ReusableForm from './components/ReusableForm/ReusableForm'
+//import ReusableForm from './components/ReusableForm/ReusableForm'
 //import HookForm from './components/HookForm/HookForm'
 //import RefForm from './components/RefForm/RefForm'
 //import SimpleForm from './components/simpleForm/simpleForm'
@@ -9,9 +9,19 @@ import ReusableForm from './components/ReusableForm/ReusableForm'
 
 function App() {
 
+   // const handleSingUpSubmit = data => {
+  //   console.log('sign up data', data);
+  // }
+
+  // const handleUpdateProfile = data => {
+  //   console.log('update profile', data);
+  // }
+
   return (
     <>
-      <h1>Vite + React</h1>
+        <h1>Form Master</h1>
+        <Grandpa></Grandpa>
+
       {/* <SimpleForm></SimpleForm> 
       <StatefulForm></StatefulForm>
       <RefForm></RefForm>
